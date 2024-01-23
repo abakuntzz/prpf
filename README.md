@@ -1,13 +1,13 @@
 # testpredprof
-##Оглавление
-- [Как использовать](#Оборудование)
+## Оглавление
+- [Как использовать](#Как-использовать)
 - [Оборудование](#Оборудование)
 
-##hello world!
+## hello world!
 hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello hello
 
-##Как использовать
+## Как использовать
 Нажать на кнопочку "Run"
 
-##Оборудование
+## Оборудование
 Python 3.10
